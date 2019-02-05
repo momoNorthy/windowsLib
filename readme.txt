@@ -1,0 +1,1 @@
+this is version 1:only have 1 function to clear the screen.
